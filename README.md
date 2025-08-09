@@ -28,9 +28,9 @@ An AI-powered excuse generator that saves brainpower for better things—like na
 - **Languages:** HTML, css, js
 - **Tools:** VS Code, Git  
 
-[![Watch the video](https://drive.google.com/file/d/1nXC_rR0bZqHp2QmDMtgqchMEeqbCjCSr/view?usp=sharing)
+Watch the video on Google Drive](https://drive.google.com/file/d/1nXC_rR0bZqHp2QmDMtgqchMEeqbCjCSr/view?usp=sharing)
 
-![Screenshot](https://drive.google.com/file/d/1RDsO5p7nnBbOCaKfBvOw-XMK8rJOmgeM/view?usp=sharing)
+![Screenshot](https://drive.google.com/file/d/1RDsO5p7nnBbOCaKfBvOw-XMK8rJOmgeM/view?usp=sharing) 
 
 **For Software:**
 
@@ -38,7 +38,4 @@ An AI-powered excuse generator that saves brainpower for better things—like na
 ```bash
 git clone https://github.com/Hinasali/excuse-AI
 cd excuse-AI
-
-Your AI-powered excuse assistant. Start typing and let artificial intelligence help you craft the perfect excuse for any situation.
-
 

@@ -30,7 +30,7 @@ An AI-powered excuse generator that saves brainpower for better things—like na
 
 Watch the video on Google Drive](https://drive.google.com/file/d/1nXC_rR0bZqHp2QmDMtgqchMEeqbCjCSr/view?usp=sharing)
 
-![Screenshot](https://drive.google.com/file/d/1RDsO5p7nnBbOCaKfBvOw-XMK8rJOmgeM/view?usp=sharing) 
+[Screenshot](https://drive.google.com/file/d/1RDsO5p7nnBbOCaKfBvOw-XMK8rJOmgeM/view?usp=sharing) 
 
 **For Software:**
 
